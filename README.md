@@ -14,5 +14,5 @@ Some books recommendations for 2020
 <p>
 
 <div align="left">
-If you want to be <a href="https://www.welcometothejungle.com/fr/companies/pretto/jobs" alt="hired">🔭</a>, contact me on <a href="https://www.linkedin.com/in/michelhua/">💬</a>.
+If you want to be <a href="https://www.welcometothejungle.com/fr/companies/pretto/jobs"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width=15 alt="hired"</a>, contact me on <a href="https://www.linkedin.com/in/michelhua/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width=15 alt="LinkedIn"></a>.
 </div>
