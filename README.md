@@ -1,6 +1,6 @@
 ### Thank you for being here 👋
 
-Here are some books recommendations for 2020
+Here are some of the great books on my bookshelf for 2020:
 
 <div align="center">
   <a href="https://www.goodreads.com/book/show/15997149-homo-economicus-proph-te-gar-des-temps-nouveaux"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359840919l/15997149.jpg" width=100 alt="Cohen"/></a>
@@ -14,5 +14,5 @@ Here are some books recommendations for 2020
 <p>
 
 <div align="left">
-If you want to be <a href="https://www.welcometothejungle.com/fr/companies/pretto/jobs"><img src="https://cdn.welcometothejungle.co/wttj-front/production/assets/images/w.svg" width=12 alt="hired"></a>, please contact me on <a href="https://www.linkedin.com/in/michelhua/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width=12 alt="LinkedIn"></a>.
+If you want to be <a href="https://www.welcometothejungle.com/fr/companies/pretto/jobs"><img src="https://cdn.welcometothejungle.co/wttj-front/production/assets/images/w.svg" width=12 alt="hired"></a>, please contact me on <a href="https://www.linkedin.com/in/michelhua/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width=12 alt="LinkedIn"></a>. You might also want to learn about the [topics](https://github.com/mycaule/reading-resources#videos-and-blog-posts-collection) I am currently interested in.
 </div>
