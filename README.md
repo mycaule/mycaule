@@ -16,3 +16,5 @@ Here are some of the great books on my bookshelf for 2020:
 <div align="left">
 If you want to be <a href="https://www.welcometothejungle.com/fr/companies/pretto/jobs"><img src="https://cdn.welcometothejungle.co/wttj-front/production/assets/images/w.svg" width=12 alt="hired"/></a>, please contact me on <a href="https://www.linkedin.com/in/michelhua/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width=12 alt="LinkedIn"/></a>. You might also want to know what <a href="https://github.com/mycaule/reading-resources#videos-and-blog-posts-collection"><img src="https://image.flaticon.com/icons/svg/226/226777.svg" width=12 alt="topics"/></a> I am currently working on.
 </div>
+
+### Merry Christmas and Happy holidays!
