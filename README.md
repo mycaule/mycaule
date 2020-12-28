@@ -1,14 +1,11 @@
 ### Thank you for being here 👋
 
-Here are some of the great books on my bookshelf for 2020:
+Here are some of the great books on my bookshelf for 2021:
 
 <div align="center">
-  <a href="https://www.goodreads.com/book/show/15997149-homo-economicus-proph-te-gar-des-temps-nouveaux"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359840919l/15997149.jpg" width=100 alt="Cohen"/></a>
-  <a href="https://www.goodreads.com/book/show/35612522-des-hommes-qui-lisent"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499361776l/35612522._SY475_.jpg" width=100 alt="Philippe"/></a>
-  <a href="https://www.goodreads.com/book/show/2074149.Understanding_Life"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1190612672l/1940020.jpg" width=100 alt="Adler"/></a>
-  <a href="https://www.goodreads.com/book/show/20821304-rethinking-positive-thinking"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401077636l/20821304.jpg" width=100 alt="Oettingen"/></a>
-  <a href="https://www.goodreads.com/book/show/50204627-google-bigquery"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572263929l/50204627._SX318_SY475_.jpg" width=100 alt="Lakshmanan"/></a>
-  <a href="https://www.goodreads.com/book/show/17287021-the-simpsons-and-their-mathematical-secrets"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376362153l/17287021.jpg" width=100 alt="Singh"/></a>
+  <a href="https://www.goodreads.com/book/show/117101.Flow"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474776448l/117101._SY475_.jpg" width=100 alt="Csikszentmihalyi"/></a>
+  <a href="https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599583594l/55275019.jpg" width=100 alt="Lakshmanan"/></a>
+  <a href="https://www.goodreads.com/book/show/8803573-analysis-i"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348989616l/8803573.jpg" width=100 alt="Godement"/></a>
 </div>
 
 <p>
@@ -17,4 +14,4 @@ Here are some of the great books on my bookshelf for 2020:
 If you want to be <a href="https://www.welcometothejungle.com/fr/companies/pretto/jobs"><img src="https://cdn.welcometothejungle.co/wttj-front/production/assets/images/w.svg" width=12 alt="hired"/></a>, please contact me on <a href="https://www.linkedin.com/in/michelhua/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width=12 alt="LinkedIn"/></a>. You might also want to know what <a href="https://github.com/mycaule/reading-resources#videos-and-blog-posts-collection"><img src="https://image.flaticon.com/icons/svg/226/226777.svg" width=12 alt="topics"/></a> I am currently working on.
 </div>
 
-### Merry Christmas and Happy holidays!
+### Happy New Year!
