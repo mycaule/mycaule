@@ -10,7 +10,7 @@ Here are some of the great books on my bookshelf for 2021:
 
 <p>
 
-<div align="left">You might also want to know what <a href="https://github.com/mycaule/reading-resources#videos-and-blog-posts-collection"><img src="https://image.flaticon.com/icons/svg/226/226777.svg" width=12 alt="topics"/></a> I am currently working on.
+<div align="left">You might also want to know what I am currently <a href="https://github.com/mycaule/reading-resources#videos-and-blog-posts-collection">working on</a>.
 </div>
 
 ### Happy New Year!
