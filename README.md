@@ -12,5 +12,3 @@ Here are some of the great books on my bookshelf for 2021:
 
 <div align="left">You might also want to know what I am currently <a href="https://github.com/mycaule/reading-resources#videos-and-blog-posts-collection">working on</a>.
 </div>
-
-### Happy New Year!
