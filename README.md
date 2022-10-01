@@ -1,11 +1,11 @@
 ### Thank you for being here 👋
 
-Here are some of the great books on my bookshelf for 2021:
+Here are some of the great books on my bookshelf for 2022:
 
 <div align="center">
-  <a href="https://www.goodreads.com/book/show/117101.Flow"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474776448l/117101._SY475_.jpg" width=100 alt="Csikszentmihalyi"/></a>
+  <a href="https://www.goodreads.com/book/show/20787425-reinventing-organizations"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431709097i/20787425.jpg" width=100 alt="Laloux"/></a>
   <a href="https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599583594l/55275019.jpg" width=100 alt="Lakshmanan"/></a>
-  <a href="https://www.goodreads.com/book/show/8803573-analysis-i"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348989616l/8803573.jpg" width=100 alt="Godement"/></a>
+  <a href="https://www.goodreads.com/book/show/57271519-the-missing-readme"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624228280i/57271519.jpg" width=100 alt="Riccomini"/></a>
 </div>
 
 <p>
