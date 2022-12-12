@@ -1,11 +1,11 @@
 ### Thank you for being here 👋
 
-Here are some of the great books on my bookshelf for 2022:
+Here are some of the great books on my bookshelf for 2023:
 
 <div align="center">
-  <a href="https://www.goodreads.com/book/show/20787425-reinventing-organizations"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1431709097i/20787425.jpg" width=100 alt="Laloux"/></a>
-  <a href="https://www.goodreads.com/book/show/55275019-machine-learning-design-patterns"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599583594l/55275019.jpg" width=100 alt="Lakshmanan"/></a>
-  <a href="https://www.goodreads.com/book/show/57271519-the-missing-readme"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624228280i/57271519.jpg" width=100 alt="Riccomini"/></a>
+  <a href="https://www.goodreads.com/book/show/541960.Judo_Formal_Techniques"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364139235i/541960.jpg" width=100 alt="Otaki"/></a>
+  <a href="https://www.goodreads.com/book/show/703101.The_AWK_Programming_Language"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349074289i/703101.jpg" width=100 alt="Aho"/></a>
+  <a href="https://www.goodreads.com/book/show/40663209-how-to-draw"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530205165i/40663209.jpg" width=100 alt="Spicer"/></a>
 </div>
 
 <p>
