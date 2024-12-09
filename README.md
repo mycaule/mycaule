@@ -1,11 +1,11 @@
 ### Thank you for being here 👋
 
-Here are some of the great books on my bookshelf for 2023:
+Here are some of the great books on my bookshelf for 2025:
 
 <div align="center">
-  <a href="https://www.goodreads.com/book/show/541960.Judo_Formal_Techniques"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364139235i/541960.jpg" width=100 alt="Otaki"/></a>
-  <a href="https://www.goodreads.com/book/show/703101.The_AWK_Programming_Language"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1349074289i/703101.jpg" width=100 alt="Aho"/></a>
-  <a href="https://www.goodreads.com/book/show/40663209-how-to-draw"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1530205165i/40663209.jpg" width=100 alt="Spicer"/></a>
+  <a href="https://www.goodreads.com/book/show/50542110-succeeding-with-ai"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585300884i/50542110.jpg" width=100 alt="Krunik"/></a>
+  <a href="https://www.goodreads.com/book/show/6767305-the-most-valuable-skills-in-chess"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328695752i/6767305.jpg" width=100 alt="Ashley"/></a>
+  <a href="https://www.goodreads.com/book/show/199327.Paris"><img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1714106118i/199327.jpg" width=100 alt="Doisneau"/></a>
 </div>
 
 <p>
